@@ -1,0 +1,18 @@
+{
+    "name": "time-calculator",
+    "version": "1.0.0",
+    "main": "main.js",
+    "type": "module",
+    "scripts": {
+        "start": "nodemon main.js"
+    },
+    "author": "BijanProgrammer",
+    "license": "MIT",
+    "devDependencies": {
+        "nodemon": "^2.0.16",
+        "prettier": "^2.6.2"
+    },
+    "dependencies": {
+        "clipboardy": "^3.0.0"
+    }
+}
