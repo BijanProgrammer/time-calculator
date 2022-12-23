@@ -1,7 +1,7 @@
 import clipboardy from 'clipboardy';
 
 const ARROW_PATTERN = /\s*(.+)\s*=>\s*(.+)\s*/;
-const JIRA_PATTERN = /([+-])?(\d+h)?(\d+m)?/;
+const JIRA_PATTERN = /\s*([+-])?\s*(\d+h)?\s*(\d+m)?\s*/;
 
 const input = `
 
